@@ -1,6 +1,5 @@
 <strong>Vaccination Platform</strong>
 
-View of vaccination platform ( front-end )
+API of vaccination platform ( back-end ) made by Laravel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
